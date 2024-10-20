@@ -1,0 +1,6 @@
+england,london
+france,paris
+wales, cardiff
+spain, madrid
+australia,canberra
+germany,berlin
